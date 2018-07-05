@@ -1,0 +1,13 @@
+{
+  "name": "kmrs.merchant.app",
+  "version": "2.1",
+  "displayName": "OrderSpot Order Taking App",
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "cordova-ios": "~4.4.0"
+  }
+}

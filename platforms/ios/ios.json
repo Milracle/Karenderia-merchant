@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {
+      "*-Info.plist": {
+        "parents": {
+          "NSLocationAlwaysUsageDescription": [
+            {
+              "xml": "<string>Karenderia want to always use your location</string>",
+              "count": 2
+            }
+          ],
+          "NSLocationWhenInUseUsageDescription": [
+            {
+              "xml": "<string>Karenderia wants to use your location</string>",
+              "count": 2
+            }
+          ]
+        }
+      }
+    }
+  },
+  "installed_plugins": {},
+  "dependent_plugins": {}
+}
